@@ -1,6 +1,6 @@
 variable "platform" {
   default     = "ubuntu"
-  description = "The OS Platform"
+  description = "ubantu machine sample"
 }
 
 variable "user" {
